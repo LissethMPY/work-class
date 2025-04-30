@@ -7,7 +7,7 @@ const PORT = 4000;
 app.use(cors());
 
 app.get('/api/hello', (req, res) => {
-  res.json({ message: 'Hola Mundo desde el backend de lis para docker!' });
+  res.json({ message: 'Desde el backend de lis y Andres para docker!' });
 });
 
 app.listen(PORT, () => {
