@@ -1,0 +1,24 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* color de fondo suave */
+    color: #333; /* color del texto */
+    text-align: center;
+  }
+  
+  h1 {
+    color: #2e8b57; /* color verde */
+    font-size: 3rem;
+  }
+  
+  p {
+    color: #555; /* color de texto menos intenso */
+    font-size: 1.2rem;
+  }
+  
+  /* Agregar algo más como un borde o sombra */
+  #mensaje {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
